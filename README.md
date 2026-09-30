@@ -1,75 +1,42 @@
 <a href="https://omerozturk.xyz">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Ömer Öztürk — Öğreniyor, üretiyor, paylaşıyorum. Learning, building, sharing." src="assets/banner-light.svg" width="100%">
+    <img alt="Ömer Öztürk — Learning, building, sharing." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
 <p align="center">
   <a href="https://omerozturk.xyz"><img alt="omerozturk.xyz" src="https://img.shields.io/badge/omerozturk.xyz-FFEA67?style=for-the-badge&labelColor=121212&logo=googlechrome&logoColor=FFEA67"></a>
-  <a href="https://www.youtube.com/@omerozturkxyz"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-282828?style=for-the-badge&logo=youtube&logoColor=F2F2F2"></a>
-  <a href="https://instagram.com/omerozturk.xyz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=F2F2F2"></a>
+  <a href="https://www.youtube.com/@omerozturkai"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-282828?style=for-the-badge&logo=youtube&logoColor=F2F2F2"></a>
+  <a href="https://instagram.com/omerozturk.ai"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=F2F2F2"></a>
   <a href="https://x.com/omerozturkxyz"><img alt="X" src="https://img.shields.io/badge/X-282828?style=for-the-badge&logo=x&logoColor=F2F2F2"></a>
   <a href="https://kick.com/omerozturkxyz"><img alt="Kick" src="https://img.shields.io/badge/Kick-282828?style=for-the-badge&logo=kick&logoColor=F2F2F2"></a>
   <a href="mailto:merhaba@omerozturk.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=maildotru&logoColor=F2F2F2"></a>
 </p>
 
-### 👋 Merhaba, ben Ömer
+### 👋 Hi, I'm Ömer
 
-Yapay zekâyla üretiyor, öğrendiklerimi paylaşıyorum. Vibe coding ile uygulamalar ve web siteleri geliştiriyorum; hepsini kurucusu olduğum [**Neptay**](https://neptay.com) çatısı altında yapıyorum.
+I build with AI and share what I learn along the way. I'm the founder of [**Neptay**](https://neptay.com), a media and technology company, and I spend most of my days turning ideas into working apps and websites through vibe coding.
 
-> **EN —** I build apps and websites through vibe coding, create content on generative AI and AI-powered ventures, and run it all under [Neptay](https://neptay.com), the company I founded.
+### 🧭 What I'm into
 
-### 🛠️ Projeler · Projects
+- **Vibe coding.** Shipping real products by pairing with AI coding agents, from first prompt to production.
+- **AI agents & automation.** Building agents and workflows that take repetitive work off people's plates.
+- **Generative AI.** Testing new models and tools, and figuring out what actually holds up in day-to-day work.
+- **Building in public.** Sharing the process, the wins and the dead ends on my channels.
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://omerozturk.xyz">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/project-omerozturk-dark.svg">
-          <img alt="omerozturk.xyz" src="assets/project-omerozturk-light.svg" width="100%">
-        </picture>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://neptay.com">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/project-neptay-dark.svg">
-          <img alt="Neptay Studio" src="assets/project-neptay-light.svg" width="100%">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://neptay.com">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/project-anlato-space-dark.svg">
-          <img alt="Anlato Space" src="assets/project-anlato-space-light.svg" width="100%">
-        </picture>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://neptay.com">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/project-anlato-voice-dark.svg">
-          <img alt="Anlato Voice" src="assets/project-anlato-voice-light.svg" width="100%">
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+### 📺 Where to find me
 
-### 📺 Kanallar · Channels
+I make content on generative AI, vibe coding and the ventures I build with AI.
 
-| | Kişisel · Personal | AI |
-| --- | --- | --- |
-| **Konu · Topics** | Genel · Girişim · Gelişim | Generative AI · Vibe Coding · Solo Girişimcilik |
-| **YouTube** | [@omerozturkxyz](https://www.youtube.com/@omerozturkxyz) | [@omerozturkai](https://www.youtube.com/@omerozturkai) |
-| **Instagram** | [@omerozturk.xyz](https://instagram.com/omerozturk.xyz) | [@omerozturk.ai](https://instagram.com/omerozturk.ai) |
+| Platform | Handle |
+| --- | --- |
+| **YouTube** | [@omerozturkai](https://www.youtube.com/@omerozturkai) |
+| **Instagram** | [@omerozturk.ai](https://instagram.com/omerozturk.ai) |
+| **Kick** | [omerozturkxyz](https://kick.com/omerozturkxyz) |
+| **X** | [@omerozturkxyz](https://x.com/omerozturkxyz) |
 
-### ⚡ Araçlar · Toolbox
+### ⚡ Toolbox
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs&logoColor=F2F2F2">
@@ -81,12 +48,12 @@ Yapay zekâyla üretiyor, öğrendiklerimi paylaşıyorum. Vibe coding ile uygul
   <img alt="Resend" src="https://img.shields.io/badge/Resend-121212?style=flat-square&logo=resend&logoColor=F2F2F2">
 </p>
 
-### ☕ Destek · Support
+### ☕ Support
 
-Paylaşımlarımı faydalı buluyorsan bir kahve ısmarlayarak destekleyebilirsin.
+If you find what I share useful, you can support me with a coffee.
 
 <a href="https://buymeacoffee.com/omerozturkxyz"><img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFEA67?style=for-the-badge&logo=buymeacoffee&logoColor=121212"></a>
 
 ---
 
-<p align="center"><sub>Neptay Studio'da yapıldı · Made at <a href="https://neptay.com">Neptay Studio</a></sub></p>
+<p align="center"><sub>Made at <a href="https://neptay.com">Neptay Studio</a></sub></p>
