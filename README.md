@@ -36,24 +36,6 @@ I make content on generative AI, vibe coding and the ventures I build with AI.
 | **Kick** | [omerozturkxyz](https://kick.com/omerozturkxyz) |
 | **X** | [@omerozturkxyz](https://x.com/omerozturkxyz) |
 
-### ⚡ Toolbox
-
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs&logoColor=F2F2F2">
-  <img alt="React" src="https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=F2F2F2">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=F2F2F2">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-121212?style=flat-square&logo=tailwindcss&logoColor=F2F2F2">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-121212?style=flat-square&logo=vercel&logoColor=F2F2F2">
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-121212?style=flat-square&logo=claude&logoColor=F2F2F2">
-  <img alt="Resend" src="https://img.shields.io/badge/Resend-121212?style=flat-square&logo=resend&logoColor=F2F2F2">
-</p>
-
-### ☕ Support
-
-If you find what I share useful, you can support me with a coffee.
-
-<a href="https://buymeacoffee.com/omerozturkxyz"><img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFEA67?style=for-the-badge&logo=buymeacoffee&logoColor=121212"></a>
-
 ---
 
 <p align="center"><sub>Made at <a href="https://neptay.com">Neptay Studio</a></sub></p>
