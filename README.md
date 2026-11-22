@@ -26,13 +26,14 @@ I build with AI and share what I learn along the way. I'm the founder of [**Nept
 
 ### 📺 Where to find me
 
-I make content on generative AI, vibe coding and the ventures I build with AI.
+I share across two channels — personal thoughts and building with AI.
 
-| Platform | Handle |
-| --- | --- |
-| **YouTube** | [@omerozturkai](https://www.youtube.com/@omerozturkai) |
-| **Instagram** | [@omerozturk.ai](https://instagram.com/omerozturk.ai) |
-| **X** | [@omerozturkxyz](https://x.com/omerozturkxyz) |
+| | Personal | AI |
+| --- | --- | --- |
+| **Topics** | Inner Monologues · Thoughts · Growth | Generative AI · Vibe Coding · Solopreneurship |
+| **Instagram** | [@omerozturk.xyz](https://instagram.com/omerozturk.xyz) | [@omerozturk.ai](https://instagram.com/omerozturk.ai) |
+| **YouTube** | [@omerozturkxyz](https://www.youtube.com/@omerozturkxyz) | [@omerozturkai](https://www.youtube.com/@omerozturkai) |
+| **X** | [@omerozturkxyz](https://x.com/omerozturkxyz) | [@omerozturkxyz](https://x.com/omerozturkxyz) |
 
 ---
 
