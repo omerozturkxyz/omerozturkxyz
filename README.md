@@ -10,7 +10,6 @@
   <a href="https://www.youtube.com/@omerozturkai"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-282828?style=for-the-badge&logo=youtube&logoColor=F2F2F2"></a>
   <a href="https://instagram.com/omerozturk.ai"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=F2F2F2"></a>
   <a href="https://x.com/omerozturkxyz"><img alt="X" src="https://img.shields.io/badge/X-282828?style=for-the-badge&logo=x&logoColor=F2F2F2"></a>
-  <a href="https://kick.com/omerozturkxyz"><img alt="Kick" src="https://img.shields.io/badge/Kick-282828?style=for-the-badge&logo=kick&logoColor=F2F2F2"></a>
   <a href="mailto:merhaba@omerozturk.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=maildotru&logoColor=F2F2F2"></a>
 </p>
 
@@ -33,7 +32,6 @@ I make content on generative AI, vibe coding and the ventures I build with AI.
 | --- | --- |
 | **YouTube** | [@omerozturkai](https://www.youtube.com/@omerozturkai) |
 | **Instagram** | [@omerozturk.ai](https://instagram.com/omerozturk.ai) |
-| **Kick** | [omerozturkxyz](https://kick.com/omerozturkxyz) |
 | **X** | [@omerozturkxyz](https://x.com/omerozturkxyz) |
 
 ---
